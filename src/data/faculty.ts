@@ -16,7 +16,7 @@ export const facultyData: FacultyMember[] = [
   // UG Faculty
   {
     name: "Dr P HARINI",
-    designation: "Professor",
+    designation: "HoD & Professor",
     qual: "Ph.D",
     university: "JNTU, Anantapur",
     dateOfDegree: "31-03-2011",
