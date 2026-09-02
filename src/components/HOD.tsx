@@ -29,7 +29,7 @@ export function HOD() {
               <div className="space-y-3 mb-8">
                 <div className="flex items-center gap-3 text-gray-400">
                   <Briefcase className="w-5 h-5 text-white/50" />
-                  <span>HoD & Professor</span>
+                  <span>HoD And Professor</span>
                 </div>
                 <div className="flex items-center gap-3 text-gray-400">
                   <GraduationCap className="w-5 h-5 text-white/50" />
